@@ -5,19 +5,12 @@ and serves as the foundational base for **IgraWay’s cross-chain arbitration an
 
 ---
 
-## 📦 Source & License
-
-**Upstream source:**  
-[https://github.com/hyperlane-xyz/hyperlane-monorepo](https://github.com/hyperlane-xyz/hyperlane-monorepo)
-
-**Original authors:**  
-[Hyperlane Labs (Abacus Works)](https://hyperlane.xyz)
 
 **License:**  
 Dual-licensed under **MIT OR Apache-2.0**, exactly as the upstream repository.  
 All SPDX license identifiers remain intact.
 
-> © Hyperlane Labs — retained and reused in compliance with MIT OR Apache-2.0 license terms.
+
 
 ---
 
